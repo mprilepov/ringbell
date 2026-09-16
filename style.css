@@ -1,0 +1,11 @@
+:root { color-scheme: light dark; }
+body { margin: 0; padding: 32px 16px 64px; font: 17px/1.55 -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; background: #f7f7f8; color: #1c1c1e; }
+@media (prefers-color-scheme: dark) { body { background: #111114; color: #ededf0; } a { color: #8ab4ff; } }
+main { max-width: 680px; margin: 0 auto; }
+h1 { font-size: 1.8em; line-height: 1.2; margin: 0 0 4px; }
+h2 { font-size: 1.15em; margin: 32px 0 6px; }
+p { margin: 0 0 14px; }
+.meta { opacity: .65; font-size: .95em; margin-bottom: 28px; }
+.lang { display: flex; gap: 16px; margin-bottom: 28px; font-size: .95em; }
+hr { border: 0; border-top: 1px solid rgba(128,128,128,.35); margin: 48px 0; }
+footer { margin-top: 48px; font-size: .9em; opacity: .65; }
