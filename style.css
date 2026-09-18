@@ -4,6 +4,7 @@ body { margin: 0; padding: 32px 16px 64px; font: 17px/1.55 -apple-system, BlinkM
 main { max-width: 680px; margin: 0 auto; }
 h1 { font-size: 1.8em; line-height: 1.2; margin: 0 0 4px; }
 h2 { font-size: 1.15em; margin: 32px 0 6px; }
+h3 { font-size: 1em; margin: 20px 0 4px; }
 p { margin: 0 0 14px; }
 .meta { opacity: .65; font-size: .95em; margin-bottom: 28px; }
 .lang { display: flex; gap: 16px; margin-bottom: 28px; font-size: .95em; }
